@@ -1,0 +1,140 @@
+body{
+  margin:0;
+  background-color: #f9f9f9;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  line-height: 1.5;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Pacifico', cursive;
+}
+h2
+{
+  font-family: 'Kaushan Script', cursive;
+}
+h3
+{
+  margin:0;
+  color:#c060a1;
+}
+.top-container{
+  background-color:#e8ffe8;
+  position: relative;
+  padding-top: 125px;
+  padding-bottom: 35px;
+
+}
+.middle-container{
+
+}
+.bottom-container{
+  margin: 50px 0px 0px 0px;
+  text-align: center;
+  background-color:#e8ffe8;
+
+
+}
+.bottom-cloud{
+position: absolute;
+height: 8%;
+width: 15%;
+}
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 20%;
+  height: 8%;
+  width: 15%;
+}
+.mypic{
+  border-radius: 65%;
+  height: 10%;
+  width: 10%;
+}
+.myskill{
+
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+}
+.profile{
+  text-align: center;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+
+
+
+.mountain{
+  height: 40%;
+  width:55%;
+}
+.sport{
+    height: 150px;
+    width: 150px;
+    float: right;
+    margin-left: 30px;
+
+
+}
+.skills{
+  margin: 50px 50px auto 50px;
+  text-align: center;
+
+}
+.contact-me
+{
+text-align: center;
+}
+a {
+  color: #11999E;
+
+
+  text-decoration: none;
+}
+
+a:hover{
+  color: #c060a1;
+}
+hr {
+    border-style: dotted none none;
+    border-top-color: #6a097d;
+    border-width: 5px;
+    width: 5%;
+    margin-top: 25px;
+}
+.myButton {
+	box-shadow:inset 0 10px 14px -7px #00ddff;
+	background-color:#66bfbf;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#eaf6f6;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.myButton:hover {
+	background-color:#408c99;
+  color:#e8ffe8;
+
+
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer-link{
+  margin-right: 20px;
+}
+.copy{
+  font-size: 0.5rem;
+}
